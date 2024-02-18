@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mr. Chaitanya D. Dhayarkar</h1>
-<h3 align="center">A beginner developer from India</h3>
+<h3 align="center">A Beginner developer from India</h3>
 
 - 🌱 I’m currently learning **Polytechnic in IT**
 
